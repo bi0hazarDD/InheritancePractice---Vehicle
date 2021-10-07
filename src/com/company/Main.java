@@ -8,5 +8,6 @@ public class Main {
     outlander.accelerate(30);
     outlander.accelerate(20);
     outlander.accelerate(-42);
+    outlander.steer(90);
     }
 }
